@@ -43,12 +43,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johannes-jp/fem-qr-code-component.git"
+    "url": "git+https://github.com/johannes-jp/REPOSITORY-NAME.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johannes-jp/fem-qr-code-component/issues"
+    "url": "https://github.com/johannes-jp"
   },
-  "homepage": "https://github.com/johannes-jp/fem-qr-code-component#readme"
+  "homepage": "https://github.com/johannes-jp"
 }

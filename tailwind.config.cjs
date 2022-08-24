@@ -5,10 +5,10 @@ module.exports = {
 
     extend: {
       
-      // screens: {
-      //   'Mobile': '375px',
-      //   'Desktop': '1440px',
-      // },
+      screens: {
+        'Mobile': '375px',
+        'Desktop': '1440px',
+      },
 
       // colors: {
       //   'White': 'hsl(0, 0%, 100%)',
